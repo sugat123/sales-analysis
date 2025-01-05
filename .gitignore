@@ -1,0 +1,22 @@
+# Ignore dataset
+car_prices.csv
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environments
+/data-analytics
+.env/
+
+# Ignore logs and temp files
+logs/
+*.log
+
+# Ignore IDE config files
+.vscode/
+.idea/
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
